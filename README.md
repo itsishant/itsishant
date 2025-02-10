@@ -51,10 +51,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsishant&theme=black-ice&background=000000" alt="itsishant" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsishant&layout=compact&theme=dark&bg_color=000000" alt="itsishant" />
 </p>
 
