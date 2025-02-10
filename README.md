@@ -43,7 +43,7 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3> <img align="right" src="https://media1.tenor.com/m/9bvNKgmMZ7cAAAAd/shadow-fight-2-shadow-fight-2-titan.gif" width="350" height="350"/>
+<h3 align="left">GitHub Stats:</h3> <img align="right" src="https://media1.tenor.com/m/9bvNKgmMZ7cAAAAd/shadow-fight-2-shadow-fight-2-titan.gif" width="300" height="300"/>
 
 
 <p>
