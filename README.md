@@ -2,15 +2,15 @@
 <h3 align="center">Passionate about Web Dev & Problem-Solving | Exploring MERN & System Design ⚡ | Open-Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsishant&label=Profile%20views&color=0e75b6&style=flat" alt="itsishant" /> </p>
+<h2> 🚀 About me:</h2>
 
 - 🌱 I’m currently learning **MERN & Problem Solving**
 - 💬 Ask me about **Java**
 - 📫 How to reach me **modakmania@gmail.com**
 - ⚡ Fun fact **I'm online every time**
 
----
+<h2 align="left"> 🌐 Connect with me:</h2>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ishantgupt72045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishantgupt72045" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/ishant-gupta-652585328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishant-gupta-652585328" height="30" width="40"/></a>
@@ -19,9 +19,8 @@
 <a href="https://auth.geeksforgeeks.org/user/modakmfos3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="modakmfos3" height="30" width="40"/></a>
 </p>
 
----
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">💻 Tech stack:</h2>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -41,9 +40,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
----
 
-<h3 align="left">GitHub Stats:</h3> <img align="right" src="https://media1.tenor.com/m/9bvNKgmMZ7cAAAAd/shadow-fight-2-shadow-fight-2-titan.gif" width="250" height="250"/>
+<h2 align="left">📊 GitHub Stats:</h2>
+
+<p> <img align="right" src="https://media1.tenor.com/m/9bvNKgmMZ7cAAAAd/shadow-fight-2-shadow-fight-2-titan.gif" width="250" height="250"/> </p>
 
 
 <p>
@@ -54,4 +54,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsishant&layout=compact&theme=dark&bg_color=000000" alt="itsishant" />
 </p>
 
----
