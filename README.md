@@ -1,5 +1,4 @@
 <h1 align="center">I'm Ishant</h1>
-<h3 align="center">Passionate about Web Dev & Problem-Solving | Exploring MERN & System Design ⚡ | Open-Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsishant&label=Profile%20views&color=0e75b6&style=flat" alt="itsishant" /> </p>
 <h1> 🚀 About me:</h1>
