@@ -7,15 +7,6 @@
 - 💬 Ask me about **Java**
 - 📫 How to reach me **modakmania@gmail.com**
 - ⚡ Fun fact **I'm online every time**
-
-<h1 align="left"> 🌐 Let's connect:</h1>
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/IshantGupt7204)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ishant-gupta-652585328)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/modakmania)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/itsishant)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/modakmfos3)
-
 <h1 align="left">💻 Tech stack:</h1>
 
 
