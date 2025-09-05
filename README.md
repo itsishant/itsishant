@@ -30,9 +30,6 @@
 </p>
 
 <h1 align="left">📊 GitHub Stats:</h1>
-
-<p> <img align="right" src="https://media1.tenor.com/m/9bvNKgmMZ7cAAAAd/shadow-fight-2-shadow-fight-2-titan.gif" border-2-rounded width="250" height="250"/> </p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsishant&show_icons=true&theme=dark&bg_color=000000" alt="itsishant" />
 </p>
