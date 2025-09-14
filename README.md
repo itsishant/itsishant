@@ -33,6 +33,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsishant&show_icons=true&theme=dark&bg_color=000000" alt="itsishant" />
 </p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsishant&theme=dark&hide_border=false" alt="itsishant's streak" />
+</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsishant&layout=compact&theme=dark&bg_color=000000" alt="itsishant" />
