@@ -1,12 +1,6 @@
 <h1 align="center">I'm Ishant</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsishant&label=Profile%20views&color=0e75b6&style=flat" alt="itsishant" /> </p>
-<h1> 🚀 About me:</h1>
 
-- 🌱 I’m currently learning **MERN & Problem Solving**
-- 💬 Ask me about **Java**
-- 📫 How to reach me **modakmania@gmail.com**
-- ⚡ Fun fact **I'm online every time**
 <h1 align="left">💻 Tech stack:</h1>
 
 
