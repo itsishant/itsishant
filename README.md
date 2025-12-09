@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsishant&show_icons=true&theme=dark&bg_color=000000" alt="itsishant" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsishant&theme=dark&hide_border=false" alt="itsishant's streak" />
+  <image href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsishant&theme=dark" alt="GitHub Streak" /></image>
 </p>
 
 <p>
