@@ -1,6 +1,7 @@
 <h1 align="center">I'm Ishant</h1>
 
 
+
 <h1 align="left">💻 Tech  stack:</h1>
 
 <p align="left">
@@ -27,7 +28,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsishant&show_icons=true&theme=dark&bg_color=000000" alt="itsishant" />
 </p>
 <p>
-  <image href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsishant&theme=dark" alt="GitHub Streak" /></image>
+
+![](https://nirzak-streak-stats.vercel.app/?user=itsishant&theme=dark&hide_border=false)<br/>
+
 </p>
 
 <p>
