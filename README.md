@@ -29,7 +29,7 @@
 </p>
 <p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=itsishant&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsishant&theme=dark&hide_border=false)<br/>
 
 </p>
 
