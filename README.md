@@ -39,13 +39,9 @@
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsishant&show_icons=true&theme=dark&bg_color=000000" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsishant&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsishant&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsishant&theme=dark&hide_border=false" />
-</p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsishant&layout=compact&theme=dark&bg_color=000000" />
