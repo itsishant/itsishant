@@ -2,8 +2,6 @@
 
 <h1 align="left">💻 Tech Stack:</h1>
 
-
-
 <h2 align="left">🖥️ Frontend</h2>
 
 <p align="left">
