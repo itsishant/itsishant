@@ -37,8 +37,3 @@
 </p>
 
 <h1 align="left">📊 GitHub Stats:</h1>
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsishant&layout=compact&theme=dark&bg_color=000000" />
-</p>
