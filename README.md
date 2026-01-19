@@ -38,3 +38,5 @@
 </p>
 
 <h1 align="left">📊 GitHub Stats:</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsishant&theme=transparent)](https://git.io/streak-stats)
