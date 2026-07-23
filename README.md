@@ -1,12 +1,13 @@
 
-<h1 align="center flex justify-between">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFpeGFlZjFyNjF2NDcwc3owM21uaXJsb3kxdWlpMGFlc21oazQ5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MZ9nZGQn1nqBG/giphy.gif" height=60 width=65 />
-   I'm Ishant
 
-</h1>
+<p align="center" style="flex justify-center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFpeGFlZjFyNjF2NDcwc3owM21uaXJsb3kxdWlpMGFlc21oazQ5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MZ9nZGQn1nqBG/giphy.gif" width="80" style="border-radius:80%;" />
+</p>
+
+<h1 align="center">I'm Ishant</h1>
 
 
-<h3> Techstack</h3>
+<h2 >💻 Tech Stack</h2>
 <div>
 
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
@@ -36,7 +37,6 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-F24E1E?style=for-the-badge&logo=huggingface&logoColor=white"/>
   <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 <h1 align="left">GitHub Stats</h1>
