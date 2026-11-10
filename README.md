@@ -15,4 +15,4 @@
 - [Activepieces](https://github.com/activepieces/activepieces/pull/10869) · fixed the page filter in the Google Search Console connector
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder/pull/590) · stopped the chat view from scrolling when typing `/`
 
-<p align="center"><sub>Open to internships and freelance work</sub></p>
+<p align="center"><sub>Open to work</sub></p>
