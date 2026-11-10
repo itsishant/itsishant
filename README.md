@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Ishant</h1>
 
 <p align="center">
-  Full stack developer building web apps, mobile apps and AI tools.<br/>
-  App Developer Intern at <a href="https://reelongo.com">ReelOnGo</a> · B.Tech CSE · New Delhi
-</p>
-
-<p align="center">
   <a href="https://modakk.tech">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ishant-gupta-652585328/">LinkedIn</a> ·
   <a href="https://x.com/Ishant23April">X</a> ·
@@ -13,15 +8,6 @@
 </p>
 
 ---
-
-### Projects
-
-| Project | What it does |
-| --- | --- |
-| [Xennvon](https://xennova-ishu.vercel.app/) | Turns long videos into vertical shorts with Whisper transcription, scene detection and a queued FFmpeg render pipeline |
-| [Kite](https://kitezy.vercel.app/) | Android calorie tracker for Indian food. Log a meal from a photo, a few words or a barcode |
-| [Loopify](https://github.com/itsishant/loopify) | Subscription tracker for web and Android that alerts you before renewals |
-| [DevHub](https://github.com/itsishant/DevHub) | Real-time social platform for developers with WebSocket chat |
 
 ### Open source
 
